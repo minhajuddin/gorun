@@ -1,0 +1,6 @@
+goeval lets you pass it a single line or multiple lines
+and it wraps them in a go main function and the runs them
+through go run, and if there is a function in your code
+it will call that function from main()
+
+See what's possible through LINQPad
